@@ -13,7 +13,7 @@ import StyleEditor from "./components/StyleEditor.vue";
 import fullStyle from "./data/style";
 import fullMarkDown from "./data/md";
 
-const interval = ref(10);
+const interval = ref(30);
 
 const totalStyle = ref("");
 const currentShowedStyle = ref("");
